@@ -72,13 +72,13 @@ header("location:../../");
 					</li>
 					<li class="<?php if ($page=='kerusakan'){echo 'active';}?>">
 						<a href="?page=kerusakan">
-							<i class="ti-user"></i>
+							<i class="ti-announcement"></i>
 							<p>Laporan Kerusakan</p>
 						</a>
 					</li>
 					<li class="<?php if ($page=='progres'){echo 'active';}?>">
 						<a href="?page=progres">
-							<i class="ti-user"></i>
+							<i class="ti-settings"></i>
 							<p>Progres Perbaikan</p>
 						</a>
 					</li>
